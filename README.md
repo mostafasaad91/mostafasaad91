@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as data analyist<br>- 📚 I'm currently learning machine learning<br>- ⚡ In my free time I ...</p>
+<p align="left">- 🔭 I’m working as data analyist<br>- 📚 I'm currently learning machine learning</p>
 
 ###
 
