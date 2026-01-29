@@ -3,7 +3,7 @@ name: Update README Cards (Streak + Top Langs)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"  # يومياً
+    - cron: "0 6 * * *"
 
 permissions:
   contents: write
