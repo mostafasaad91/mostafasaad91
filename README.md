@@ -1,8 +1,8 @@
 # Hi there, I'm Mostafa Saad 👋
 
-<!-- صورتك الخاصة: بار تشارت ثلاثي الأبعاد -->
+<!-- أيقونة Bar Chart ثنائية الأبعاد (2D) ملونة وواضحة -->
 <div align="center">
-  <img src="رابط_الصورة_التي_رفعتها_هنا" width="200" alt="3D Data Visualization" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3094/3094838.png" width="160" alt="2D Flat Bar Chart" />
 </div>
 
 <br>
@@ -68,7 +68,7 @@ Currently, I specialize in **Statistical Analysis** and **Data Visualization**, 
 <div align="center">
 
 <!-- اضغط على الأيقونة للذهاب إلى حسابي -->
-<a href="ضع_رابط_لينكدإن_هنا" target="_blank">
+<a href="https://www.linkedin.com/in/mostafa-saad-171086191/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
