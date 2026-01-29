@@ -1,0 +1,33 @@
+name: Update README Cards (Streak + Top Langs)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"  # يومياً
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download SVG cards
+        run: |
+          mkdir -p assets
+          curl -L --retry 5 --retry-delay 5 --fail \
+            "https://streak-stats.demolab.com/?user=mostafasaad91&theme=radical&hide_border=true" \
+            -o assets/streak.svg
+          curl -L --retry 5 --retry-delay 5 --fail \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaad91&layout=compact&theme=radical&hide_border=true" \
+            -o assets/top-langs.svg
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg assets/top-langs.svg
+          git commit -m "Update README cards" || exit 0
+          git push
