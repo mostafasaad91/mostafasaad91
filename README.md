@@ -57,17 +57,31 @@ Currently, I specialize in **Statistical Analysis** and **Data Visualization**, 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Mostafa's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+
+<!-- المحاولة 1: سيرفر Streak (الأكثر موثوقية) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasaad91&theme=radical&hide_border=true" alt="Streak Stats" />
+
+<br/><br/>
+
+<!-- المحاولة 2: سيرفر اللغات (Anuraghazra) -->
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mostafasaad91&layout=compact&theme=radical" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- المحاولة 3 (احتياطية): سيرفر جوائز Trophies (سيرفر مستقل) -->
+<img src="https://github-profile-trophy.vercel.app/?username=mostafasaad91&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+
 </div>
 
----
+
+
+
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<!-- اضغط على الأيقونة للذهاب إلى حسابي -->
+<!-- رابط LinkedIn الخاص بك -->
 <a href="https://www.linkedin.com/in/mostafa-saad-171086191/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
