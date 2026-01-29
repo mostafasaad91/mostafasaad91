@@ -1,5 +1,19 @@
-
 # Hi there, I'm Mostafa Saad 👋
+
+<!-- صورتك الخاصة: بار تشارت ثلاثي الأبعاد -->
+<div align="center">
+  <img src="رابط_الصورة_التي_رفعتها_هنا" width="200" alt="3D Data Visualization" />
+</div>
+
+<br>
+
+<!-- بادج التخصص -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Field-Data_Science-2E86C1?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br>
+
 ### 📊 Data Scientist & Analyst | Python & BI Specialist
 
 I am a passionate **Data Scientist** focused on transforming raw data into actionable insights. My expertise bridges the gap between technical analysis and business decision-making using a robust stack of **Python**, **SQL**, and **BI Tools**.
@@ -12,6 +26,8 @@ Currently, I specialize in **Statistical Analysis** and **Data Visualization**, 
 
 ### 🐍 Python & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-Focus-blueviolet?style=for-the-badge)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -52,10 +68,8 @@ Currently, I specialize in **Statistical Analysis** and **Data Visualization**, 
 <div align="center">
 
 <!-- اضغط على الأيقونة للذهاب إلى حسابي -->
-<a href="https://www.linkedin.com/in/mostafa-saad-171086191/" target="_blank">
+<a href="ضع_رابط_لينكدإن_هنا" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Mostafa_Saad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-
 
 </div>
