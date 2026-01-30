@@ -1,3 +1,4 @@
+on: workflow_dispatch:
 name: Update README Cards (Streak + Top Langs)
 
 on:
