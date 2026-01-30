@@ -69,9 +69,6 @@ Currently, I specialize in **Statistical Analysis** and **Data Visualization**, 
 <br/><br/>
 
 <!-- المحاولة 3 (احتياطية): سيرفر جوائز Trophies (سيرفر مستقل) -->
-<img src="https://github-profile-trophy.vercel.app/?username=mostafasaad91&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-
-</div>
 
 
 
