@@ -14,11 +14,13 @@
 
 <br>
 
-### 📊 Data Scientist & Analyst | Python & BI Specialist
+### 📊 Data Analyst | SQL, Python & Power BI
 
-I am a passionate **Data Scientist** focused on transforming raw data into actionable insights. My expertise bridges the gap between technical analysis and business decision-making using a robust stack of **Python**, **SQL**, and **BI Tools**.
+I'm a **Data Analyst** focused on turning raw data into decisions — end-to-end, from SQL data
+modeling through Python analysis to interactive Power BI dashboards.
 
-Currently, I specialize in **Statistical Analysis** and **Data Visualization**, and I am actively expanding my capabilities in **Machine Learning modeling**.
+I'm currently deepening my **Statistical Analysis** and **Data Visualization** skills, and actively
+building toward **Machine Learning**.
 
 ---
 
@@ -54,25 +56,29 @@ Currently, I specialize in **Statistical Analysis** and **Data Visualization**, 
 
 ---
 
+## 📌 Featured Project
+
+**[AdventureWorks Sales Analytics](https://github.com/mostafasaad91/adventure-works-sales-analytics)**
+End-to-end analysis of a $110M sales dataset — SQL for exploration and profitability, Python
+(RFM segmentation with KMeans, cohort retention, market basket analysis) for customer insight,
+and a 4-page interactive Power BI dashboard for the executive story.
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<!-- المحاولة 1: سيرفر Streak (الأكثر موثوقية) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasaad91&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mostafasaad91&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=mostafasaad91&theme=radical&hide_border=true" alt="Streak Stats" height="165" />
 
 <br/><br/>
 
-<!-- المحاولة 2: سيرفر اللغات (Anuraghazra) -->
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mostafasaad91&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasaad91&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
+</div>
 
-<!-- المحاولة 3 (احتياطية): سيرفر جوائز Trophies (سيرفر مستقل) -->
-
-
-
-
+---
 
 ## 🤝 Let's Connect
 
