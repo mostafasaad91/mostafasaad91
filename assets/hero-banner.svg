@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mostafa Saad — Data Analyst, Analytics Engineer and Football Data Scientist">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="55%" stop-color="#050814"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="15%" cy="20%" r="45%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowEmerald" cx="88%" cy="80%" r="45%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1E293B" stroke-width="0.7" opacity="0.45"/>
+    </pattern>
+  </defs>
+
+  <!-- AMOLED Canvas -->
+  <rect width="1200" height="300" rx="18" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glowCyan)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glowEmerald)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Top Spectrum Accent Bar -->
+  <rect x="44" y="34" width="136" height="4" rx="2" fill="url(#accentLine)"/>
+
+  <!-- Eyebrow Tag -->
+  <text x="44" y="64" fill="#00E5FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="2.2">
+    // DUAL-TRACK PORTFOLIO · BUSINESS BI &amp; ML  ×  FOOTBALL ANALYTICS LAB
+  </text>
+
+  <!-- Main Name -->
+  <text x="44" y="124" fill="#F8FAFC" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-0.8">
+    MOSTAFA SAAD
+  </text>
+
+  <!-- Role Subtitle -->
+  <text x="44" y="160" fill="#CBD5E1" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">
+    Data Analyst · Analytics Engineer · Football Data &amp; Performance Analyst
+  </text>
+
+  <!-- Value Prop Line -->
+  <text x="44" y="192" fill="#94A3B8" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14.5">
+    Turning SQL Warehouses, Executive Excel &amp; Power BI, Explainable ML, and Opta/StatsBomb Event Data into Decisions.
+  </text>
+
+  <!-- Bottom Track Pills -->
+  <g transform="translate(44, 224)">
+    <rect x="0" y="0" width="242" height="36" rx="9" fill="#0B1220" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle cx="18" cy="18" r="4.5" fill="#00E5FF"/>
+    <text x="32" y="23" fill="#E2E8F0" font-family="ui-monospace, Consolas, monospace" font-size="12.5" font-weight="600">SQL · EXCEL · POWER BI · ML</text>
+
+    <rect x="258" y="0" width="262" height="36" rx="9" fill="#0B1220" stroke="#10B981" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle cx="276" cy="18" r="4.5" fill="#10B981"/>
+    <text x="290" y="23" fill="#E2E8F0" font-family="ui-monospace, Consolas, monospace" font-size="12.5" font-weight="600">STATSBOMB · OPTA · xG · SCOUT</text>
+
+    <rect x="536" y="0" width="218" height="36" rx="9" fill="#0B1220" stroke="#8B5CF6" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle cx="554" cy="18" r="4.5" fill="#A78BFA"/>
+    <text x="568" y="23" fill="#E2E8F0" font-family="ui-monospace, Consolas, monospace" font-size="12.5" font-weight="600">AL JIZAH, EG · EN &amp; AR</text>
+  </g>
+
+  <!-- Right Side Decorative AMOLED Analytics Telemetry Graphic -->
+  <g transform="translate(865, 42)">
+    <rect x="0" y="0" width="290" height="218" rx="14" fill="#090D16" stroke="#1E293B" stroke-width="1.2"/>
+    <circle cx="18" cy="18" r="4" fill="#F43F5E"/>
+    <circle cx="32" cy="18" r="4" fill="#F59E0B"/>
+    <circle cx="46" cy="18" r="4" fill="#10B981"/>
+    <text x="272" y="22" text-anchor="end" fill="#64748B" font-family="ui-monospace, Consolas, monospace" font-size="10.5">LIVE TELEMETRY</text>
+    <line x1="0" y1="34" x2="290" y2="34" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- Mini Bars -->
+    <rect x="22" y="114" width="20" height="44" rx="4" fill="#00E5FF" opacity="0.45"/>
+    <rect x="50" y="96" width="20" height="62" rx="4" fill="#00E5FF" opacity="0.65"/>
+    <rect x="78" y="106" width="20" height="52" rx="4" fill="#8B5CF6" opacity="0.72"/>
+    <rect x="106" y="76" width="20" height="82" rx="4" fill="#00E5FF" opacity="0.88"/>
+    <rect x="134" y="88" width="20" height="70" rx="4" fill="#8B5CF6" opacity="0.85"/>
+    <rect x="162" y="64" width="20" height="94" rx="4" fill="#10B981" opacity="0.9"/>
+    <rect x="190" y="52" width="20" height="106" rx="4" fill="#10B981"/>
+    <rect x="218" y="70" width="20" height="88" rx="4" fill="#00E5FF" opacity="0.8"/>
+    <rect x="246" y="46" width="20" height="112" rx="4" fill="#10B981"/>
+
+    <!-- Overlay Trend Curve -->
+    <path d="M 32 118 C 72 95, 112 88, 152 72 C 192 56, 224 58, 256 46" fill="none" stroke="#F8FAFC" stroke-width="2" stroke-dasharray="4 3" opacity="0.8"/>
+    <circle cx="256" cy="46" r="4.5" fill="#00E5FF"/>
+
+    <!-- Bottom Telemetry Readout -->
+    <line x1="16" y1="170" x2="274" y2="170" stroke="#1E293B" stroke-width="1"/>
+    <text x="20" y="191" fill="#00E5FF" font-family="ui-monospace, Consolas, monospace" font-size="11" font-weight="700">7 E2E REPOS</text>
+    <text x="145" y="191" text-anchor="middle" fill="#A78BFA" font-family="ui-monospace, Consolas, monospace" font-size="11" font-weight="700">100% REAL DATA</text>
+    <text x="270" y="191" text-anchor="end" fill="#10B981" font-family="ui-monospace, Consolas, monospace" font-size="11" font-weight="700">TESTED</text>
+  </g>
+</svg>

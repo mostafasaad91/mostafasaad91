@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Mostafa Saad Footer">
+  <defs>
+    <linearGradient id="fGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="72" rx="14" fill="#050814" stroke="#1E293B" stroke-width="1.2"/>
+  <rect x="0" y="0" width="1200" height="3" rx="1.5" fill="url(#fGrad)"/>
+  <text x="600" y="42" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13.5" font-weight="600" letter-spacing="0.8">
+    TURNING BUSINESS &amp; FOOTBALL DATA INTO ACTIONABLE INTELLIGENCE  ·  MOSTAFASAAD91.GITHUB.IO
+  </text>
+</svg>

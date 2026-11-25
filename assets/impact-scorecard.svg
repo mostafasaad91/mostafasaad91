@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-label="Mostafa Saad Verified Portfolio Impact Scorecard">
+  <rect width="1200" height="132" rx="14" fill="#000000"/>
+
+  <!-- Card 1: Business BI & Warehousing -->
+  <g transform="translate(0, 6)">
+    <rect x="0" y="0" width="286" height="120" rx="14" fill="#090D16" stroke="#00E5FF" stroke-opacity="0.38" stroke-width="1.3"/>
+    <text x="20" y="30" fill="#00E5FF" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">SQL · EXCEL · POWER BI</text>
+    <text x="20" y="68" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800">$110M + 99.4K</text>
+    <text x="20" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5">AdventureWorks BI &amp; Olist Orders</text>
+  </g>
+
+  <!-- Card 2: Applied Business ML -->
+  <g transform="translate(304, 6)">
+    <rect x="0" y="0" width="286" height="120" rx="14" fill="#090D16" stroke="#8B5CF6" stroke-opacity="0.42" stroke-width="1.3"/>
+    <text x="20" y="30" fill="#A78BFA" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">EXPLAINABLE ML &amp; RISK</text>
+    <text x="20" y="68" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800">37K+ Clients</text>
+    <text x="20" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5">KS 0.429 Credit · +27.2% Churn ROI</text>
+  </g>
+
+  <!-- Card 3: Football Analytics Lab -->
+  <g transform="translate(608, 6)">
+    <rect x="0" y="0" width="286" height="120" rx="14" fill="#090D16" stroke="#10B981" stroke-opacity="0.42" stroke-width="1.3"/>
+    <text x="20" y="30" fill="#10B981" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">FOOTBALL DATA LAB</text>
+    <text x="20" y="68" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800">3,685 Shots</text>
+    <text x="20" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5">1,305 Players · StatsBomb + Opta ★7</text>
+  </g>
+
+  <!-- Card 4: Leadership & Credentials -->
+  <g transform="translate(912, 6)">
+    <rect x="0" y="0" width="288" height="120" rx="14" fill="#090D16" stroke="#F59E0B" stroke-opacity="0.4" stroke-width="1.3"/>
+    <text x="20" y="30" fill="#F59E0B" font-family="ui-monospace, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1.2">EXPERIENCE &amp; CERTS</text>
+    <text x="20" y="68" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800">6+ Yrs · 4 Certs</text>
+    <text x="20" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5">Data Lead · FA · PFSA · FP Academy</text>
+  </g>
+</svg>
