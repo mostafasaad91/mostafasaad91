@@ -53,11 +53,11 @@ I'm **Mostafa Saad** — a **Data Analyst & Analytics Engineer** with **6+ years
 
 | Flagship Repository | Real Dataset | Stack | Verified Impact & Live Links |
 |---|---|---|---|
-| **[retail-1m-clv-datascience-engine](https://github.com/mostafasaad91/retail-1m-clv-datascience-engine)**<br/>*1.067M-Row CLV, Survival & Market Basket Engine* | **1,067,371 rows**<br/>2 native Excel sheets (`£17.07M GMV`) | `Multi-Sheet Excel` · `SQL Star Schema` · `Stacking + SHAP` · `Survival & SVD` · `CI ✅` | **0.7979** out-of-time AUC · **73.22%** Top-20% CLV capture · **89.4%** 12M survival · **31.6x** basket lift · **13.78% MAPE** · [▶ Live 4-Page Dashboard](https://mostafasaad91.github.io/retail-1m-clv-datascience-engine/) · [⬇ 8-Sheet Excel](https://github.com/mostafasaad91/retail-1m-clv-datascience-engine/raw/main/outputs/Retail_1M_DataScience_Executive_Workbook.xlsx) |
-| **[olist-ecommerce-fullstack-analytics](https://github.com/mostafasaad91/olist-ecommerce-fullstack-analytics)**<br/>*Full-Stack Centerpiece (SQL + Excel + Python + DS)* | **99,441 real orders**<br/>8 relational tables (`R$15.29M GMV`) | `SQL Star Schema` · `6-Sheet Excel` · `LightGBM` · `SHAP` · `CI ✅` | **5.88x** late-delivery risk (`p<1e-300`) · **+45.4%** CS ROI · **3.50% MAPE** · [▶ Live 4-Page Dashboard](https://mostafasaad91.github.io/olist-ecommerce-fullstack-analytics/) · [⬇ Excel](https://github.com/mostafasaad91/olist-ecommerce-fullstack-analytics/raw/main/outputs/Olist_Executive_Analytics_Workbook.xlsx) |
+| **[uk-retail-clv-survival-engine](https://github.com/mostafasaad91/uk-retail-clv-survival-engine)**<br/>*1.067M-Row CLV, Survival & Market Basket Engine* | **1,067,371 rows**<br/>2 native Excel sheets (`£17.07M GMV`) | `Multi-Sheet Excel` · `SQL Star Schema` · `Stacking + SHAP` · `Survival & SVD` · `CI ✅` | **0.7979** out-of-time AUC · **73.22%** Top-20% CLV capture · **89.4%** 12M survival · **31.6x** basket lift · **13.78% MAPE** · [▶ Live 4-Page Dashboard](https://mostafasaad91.github.io/uk-retail-clv-survival-engine/) · [⬇ 8-Sheet Excel](https://github.com/mostafasaad91/uk-retail-clv-survival-engine/raw/main/outputs/Retail_1M_DataScience_Executive_Workbook.xlsx) |
+| **[olist-supply-chain-sla-forecasting](https://github.com/mostafasaad91/olist-supply-chain-sla-forecasting)**<br/>*Full-Stack Centerpiece (SQL + Excel + Python + DS)* | **99,441 real orders**<br/>8 relational tables (`R$15.29M GMV`) | `SQL Star Schema` · `6-Sheet Excel` · `LightGBM` · `SHAP` · `CI ✅` | **5.88x** late-delivery risk (`p<1e-300`) · **+45.4%** CS ROI · **3.50% MAPE** · [▶ Live 4-Page Dashboard](https://mostafasaad91.github.io/olist-supply-chain-sla-forecasting/) · [⬇ Excel](https://github.com/mostafasaad91/olist-supply-chain-sla-forecasting/raw/main/outputs/Olist_Executive_Analytics_Workbook.xlsx) |
 | **[adventure-works-sales-analytics](https://github.com/mostafasaad91/adventure-works-sales-analytics)** `★ 1`<br/>*Enterprise SQL → Python → Power BI* | **$110M OLTP DB**<br/>72 tables · `121K` sales lines | `T-SQL` · `pyodbc` · `K-Means RFM` · `Power BI (PBIP)` · `17 DAX` | Point-in-time margins · `k=4` SQL write-back · **>90x** basket lift · [▶ Live 6-Page Power BI](https://app.powerbi.com/view?r=eyJrIjoiODk5NTM5YjQtMTk4Ny00NGU2LWFiMzUtYTg1N2YwZDUyYWU4IiwidCI6ImI3YTMxZDI1LWYyMzMtNGM4ZC05ODM0LTdiMjVlZDVlMWU4YSIsImMiOjh9) |
 | **[fintech-credit-risk-scorecard](https://github.com/mostafasaad91/fintech-credit-risk-scorecard)**<br/>*Credit Scoring & Basel III Expected Loss* | **30,000 bank clients**<br/>UCI Credit Default (`22.1%` default) | `SQLite` · `WoE/IV` · `LightGBM` · `Basel EL` · `CI ✅` | **KS 0.429 · Gini 0.564 · Brier 0.134** · 300–850 score · **NT$29.6M** Basel EL (top 20% = 50.9% defaults) · [Story](https://github.com/mostafasaad91/fintech-credit-risk-scorecard/blob/main/docs/PROJECT_STORY.md) |
-| **[telco-churn-explainable-ml](https://github.com/mostafasaad91/telco-churn-explainable-ml)**<br/>*Explainable Churn & Retention ROI* | **7,043 subscribers**<br/>IBM Telco (`26.5%` churn) | `SQLite` · `XGBoost` · `Calibration` · `SHAP` · `CI ✅` | **0.848 Test ROC-AUC** (`Brier 0.135`) · Val threshold `0.37` lifts test net profit **+27.2%** (`$40.5K vs $31.8K`) · [Story](https://github.com/mostafasaad91/telco-churn-explainable-ml/blob/main/docs/PROJECT_STORY.md) |
+| **[telco-churn-retention-roi](https://github.com/mostafasaad91/telco-churn-retention-roi)**<br/>*Explainable Churn & Retention ROI* | **7,043 subscribers**<br/>IBM Telco (`26.5%` churn) | `SQLite` · `XGBoost` · `Calibration` · `SHAP` · `CI ✅` | **0.848 Test ROC-AUC** (`Brier 0.135`) · Val threshold `0.37` lifts test net profit **+27.2%** (`$40.5K vs $31.8K`) · [Story](https://github.com/mostafasaad91/telco-churn-retention-roi/blob/main/docs/PROJECT_STORY.md) |
 
 ---
 
@@ -66,7 +66,7 @@ I'm **Mostafa Saad** — a **Data Analyst & Analytics Engineer** with **6+ years
 | Flagship Repository | Real Dataset | Stack | Verified Impact & Live Links |
 |---|---|---|---|
 | **[Football-Match-Analysis](https://github.com/mostafasaad91/Football-Match-Analysis)** `★ 7`<br/>*Automated Post-Match Tactical Engine* | **WhoScored / Opta**<br/>EPL · La Liga · Serie A | `Python` · `xG / xT / xGChain` · `PPDA` · `SQLite` · `PDF` | **1 URL → Full Package:** 8 dual AMOLED (`#000000`) & Print (`#F5F5F5`) 4:5 posters, PDF report, `.docx` article & SQLite archive |
-| **[statsbomb-xg-calibration-lab](https://github.com/mostafasaad91/statsbomb-xg-calibration-lab)**<br/>*Freeze-Frame xG Calibration Benchmark* | **3,685 real shots**<br/>149 matches (WC22 · Euro24 · BL23/24) | `StatsBomb 360` · `Match-Grouped CV` · `SHAP` · `CI ✅` | Freeze-Frame cuts Log-Loss **-0.0236** (`0.2531` LL / `0.816` AUC vs official StatsBomb `0.2422` / `0.827`) · [▶ Live 3,642-Shot Explorer](https://mostafasaad91.github.io/statsbomb-xg-calibration-lab/) |
+| **[statsbomb-360-xg-calibration](https://github.com/mostafasaad91/statsbomb-360-xg-calibration)**<br/>*Freeze-Frame xG Calibration Benchmark* | **3,685 real shots**<br/>149 matches (WC22 · Euro24 · BL23/24) | `StatsBomb 360` · `Match-Grouped CV` · `SHAP` · `CI ✅` | Freeze-Frame cuts Log-Loss **-0.0236** (`0.2531` LL / `0.816` AUC vs official StatsBomb `0.2422` / `0.827`) · [▶ Live 3,642-Shot Explorer](https://mostafasaad91.github.io/statsbomb-360-xg-calibration/) |
 | **[football-scouting-similarity-engine](https://github.com/mostafasaad91/football-scouting-similarity-engine)**<br/>*Tactical Role Discovery & Recruitment ML* | **1,305 real players**<br/>361 eligible (`270+ min` gate) | `SQLite` · `Silhouette K-Means` · `PCA` · `Cosine` · `CI ✅` | Optimal `k=4` · `56.3%` PCA · **Wirtz → Yamal (96%)** · **Xhaka → Vitinha (92%)** · [▶ Live Twin Finder](https://mostafasaad91.github.io/?track=football#scouting-widget) |
 
 ---
@@ -76,22 +76,22 @@ I'm **Mostafa Saad** — a **Data Analyst & Analytics Engineer** with **6+ years
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/mostafasaad91/retail-1m-clv-datascience-engine">
-        <img src="https://raw.githubusercontent.com/mostafasaad91/retail-1m-clv-datascience-engine/main/outputs/figures/04_clv_regression_decile_lift.png" alt="1.067M Retail Two-Stage CLV Decile Lift" width="100%" />
+      <a href="https://github.com/mostafasaad91/uk-retail-clv-survival-engine">
+        <img src="https://raw.githubusercontent.com/mostafasaad91/uk-retail-clv-survival-engine/main/outputs/figures/04_clv_regression_decile_lift.png" alt="1.067M Retail Two-Stage CLV Decile Lift" width="100%" />
       </a>
       <sub><b>1.067M Retail CLV & Data Science Engine</b> · Top 20% VIPs = 73.22% of 90d Revenue</sub>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/mostafasaad91/retail-1m-clv-datascience-engine">
-        <img src="https://raw.githubusercontent.com/mostafasaad91/retail-1m-clv-datascience-engine/main/outputs/figures/02_cohort_survival_kaplan_meier.png" alt="Kaplan-Meier Survival & Cohort Retention" width="100%" />
+      <a href="https://github.com/mostafasaad91/uk-retail-clv-survival-engine">
+        <img src="https://raw.githubusercontent.com/mostafasaad91/uk-retail-clv-survival-engine/main/outputs/figures/02_cohort_survival_kaplan_meier.png" alt="Kaplan-Meier Survival & Cohort Retention" width="100%" />
       </a>
       <sub><b>1.067M Retail Survival & Cohorts</b> · 89.4% Loyal vs 25.2% One-Time 12M Survival</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/mostafasaad91/olist-ecommerce-fullstack-analytics">
-        <img src="https://raw.githubusercontent.com/mostafasaad91/olist-ecommerce-fullstack-analytics/main/outputs/figures/01_supply_chain_sla_impact.png" alt="Olist Supply Chain SLA Impact" width="100%" />
+      <a href="https://github.com/mostafasaad91/olist-supply-chain-sla-forecasting">
+        <img src="https://raw.githubusercontent.com/mostafasaad91/olist-supply-chain-sla-forecasting/main/outputs/figures/01_supply_chain_sla_impact.png" alt="Olist Supply Chain SLA Impact" width="100%" />
       </a>
       <sub><b>Olist Full-Stack (SQL + Excel + ML)</b> · Late Delivery 5.88x Bad-Review Cliff</sub>
     </td>
@@ -104,10 +104,10 @@ I'm **Mostafa Saad** — a **Data Analyst & Analytics Engineer** with **6+ years
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/mostafasaad91/statsbomb-xg-calibration-lab">
-        <img src="https://raw.githubusercontent.com/mostafasaad91/statsbomb-xg-calibration-lab/main/outputs/figures/02_xg_model_calibration.png" alt="StatsBomb xG Calibration vs Commercial Benchmark" width="100%" />
+      <a href="https://github.com/mostafasaad91/statsbomb-360-xg-calibration">
+        <img src="https://raw.githubusercontent.com/mostafasaad91/statsbomb-360-xg-calibration/main/outputs/figures/02_xg_model_calibration.png" alt="StatsBomb xG Calibration vs Commercial Benchmark" width="100%" />
       </a>
-      <sub><b>StatsBomb xG Calibration Lab</b> · Freeze-Frame Ablation vs Official StatsBomb xG</sub>
+      <sub><b>StatsBomb 360 xG Calibration</b> · Freeze-Frame Ablation vs Official StatsBomb xG</sub>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/mostafasaad91/football-scouting-similarity-engine">
