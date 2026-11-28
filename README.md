@@ -67,6 +67,8 @@ I'm **Mostafa Saad** — a **Data Analyst & Analytics Engineer** with **6+ years
 | Flagship Repository | Real Dataset | Stack | Verified Impact & Live Links |
 |---|---|---|---|
 | **[Football-Match-Analysis](https://github.com/mostafasaad91/Football-Match-Analysis)** `★ 7`<br/>*Automated Post-Match Tactical Engine* | **WhoScored / Opta**<br/>EPL · La Liga · Serie A | `Python` · `xG / xT / xGChain` · `PPDA` · `SQLite` · `PDF` | **1 URL → Full Package:** 8 dual AMOLED (`#000000`) & Print (`#F5F5F5`) 4:5 posters, PDF report, `.docx` article & SQLite archive |
+| **[football-vaep-xt-action-valuation](https://github.com/mostafasaad91/football-vaep-xt-action-valuation)**<br/>*Markov xT, VAEP & Pass Risk-Reward Engine* | **543,651 real events**<br/>149 matches · `358` players (`270+ min`) | `Markov xT (12×8)` · `VAEP` · `xPass` · `TreeSHAP` · `pytest ✅` | **`0.9308`** xPass AUC · **`0.7839`** VAEP AUC · **#1 Messi (`1.054 VAEP/90`)** · **Leverkusen (`3.025/M`)** · **10 AMOLED visuals** · [▶ Live xT Pitch Simulator](https://mostafasaad91.github.io/football-vaep-xt-action-valuation/) |
+| **[football-pressing-tactical-intelligence](https://github.com/mostafasaad91/football-pressing-tactical-intelligence)**<br/>*Pressing, Counter-Press Survival & Build-Up Lab* | **543,651 real events**<br/>`19,445` losses · `3,229` high turnovers | `Kaplan-Meier 5s` · `PPDA` · `Field Tilt` · `K-Means + PCA` · `pytest ✅` | **Field Tilt → xG `ρ=0.618`** (`p=7.8e-33`) · **+1.14 High-Press xG swing** · **Zone 14 `49.7%` shot** · **`81.5%` PCA** · **10 AMOLED visuals** · [▶ Live Tactical Lab](https://mostafasaad91.github.io/football-pressing-tactical-intelligence/) |
 | **[statsbomb-360-xg-calibration](https://github.com/mostafasaad91/statsbomb-360-xg-calibration)**<br/>*Freeze-Frame xG Calibration Benchmark* | **3,685 real shots**<br/>149 matches (WC22 · Euro24 · BL23/24) | `StatsBomb 360` · `Match-Grouped CV` · `SHAP` · `CI ✅` | Freeze-Frame cuts Log-Loss **-0.0236** (`0.2531` LL / `0.816` AUC vs official StatsBomb `0.2422` / `0.827`) · [▶ Live 3,642-Shot Explorer](https://mostafasaad91.github.io/statsbomb-360-xg-calibration/) |
 | **[football-scouting-similarity-engine](https://github.com/mostafasaad91/football-scouting-similarity-engine)**<br/>*Tactical Role Discovery & Recruitment ML* | **1,305 real players**<br/>361 eligible (`270+ min` gate) | `SQLite` · `Silhouette K-Means` · `PCA` · `Cosine` · `CI ✅` | Optimal `k=4` · `56.3%` PCA · **Wirtz → Yamal (96%)** · **Xhaka → Vitinha (92%)** · [▶ Live Twin Finder](https://mostafasaad91.github.io/?track=football#scouting-widget) |
 
@@ -115,6 +117,20 @@ I'm **Mostafa Saad** — a **Data Analyst & Analytics Engineer** with **6+ years
         <img src="https://raw.githubusercontent.com/mostafasaad91/football-scouting-similarity-engine/main/outputs/figures/03_similarity_shortlist.png" alt="Football Scouting Similarity Shortlists" width="100%" />
       </a>
       <sub><b>Scouting Similarity Engine</b> · Wirtz → Lamine Yamal (96%) · Xhaka → Vitinha (92%)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/mostafasaad91/football-vaep-xt-action-valuation">
+        <img src="https://raw.githubusercontent.com/mostafasaad91/football-vaep-xt-action-valuation/main/outputs/figures/01_markov_xt_pitch_surface.png" alt="Markov Chain Expected Threat Surface" width="100%" />
+      </a>
+      <sub><b>Football Action Valuation (xT · VAEP · xPass)</b> · 12×8 Bellman xT · #1 Messi 1.05 VAEP/90 · 0.931 xPass AUC</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/mostafasaad91/football-pressing-tactical-intelligence">
+        <img src="https://raw.githubusercontent.com/mostafasaad91/football-pressing-tactical-intelligence/main/outputs/figures/02_counterpress_kaplan_meier_survival.png" alt="Kaplan-Meier Counter-Pressing Survival Analysis" width="100%" />
+      </a>
+      <sub><b>Football Tactical Intelligence (Pressing & Survival)</b> · 5-Second Rule · Field Tilt→xG ρ=0.618 · Zone 14 49.7%</sub>
     </td>
   </tr>
 </table>
